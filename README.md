@@ -16,8 +16,7 @@ The user is able to :
 
 * View their combined weight of multiple exercises from the past number of workouts on the dashboard/stats page.
 
-
-
+* View the total duration of each workout from the past seven workouts on the dashboard/stats page.
 
 
 
@@ -27,4 +26,6 @@ The user is able to :
 ---
 
 [My Github Repository](https://github.com/Maripia12/Workout-Tracker)
+
+
 ![tracker demo](images/fitnesstracker1.gif)
