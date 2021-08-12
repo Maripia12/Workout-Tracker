@@ -13,4 +13,4 @@
 
 ## Images:
 ---
-![tracker demo](images/fitnesstracker.gif)
+![tracker demo](images/fitnesstracker1.gif)
