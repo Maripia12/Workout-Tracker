@@ -27,5 +27,7 @@ The user is able to :
 
 [My Github Repository](https://github.com/Maripia12/Workout-Tracker)
 
+[Deployed to Heroku](https://salty-caverns-18478.herokuapp.com/)
+
 
 ![tracker demo](images/fitnesstracker1.gif)
